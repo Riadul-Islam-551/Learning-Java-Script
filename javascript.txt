@@ -1,0 +1,52 @@
+functions in javascript :
+
+** For showing output
+1. document.write();
+2. alert();  or  prompt()
+3. console.log();
+
+** For showing a loading alert
+4. onload();
+
+** Function of Number method :
+5. typeof( variable name );   // to show the type of variable if the variable is in string or number type
+
+6. toString( variable name );  // to transfer the data type from number to string
+
+7. parseInt( variable name );  // to transfer the data type from string to number
+
+8. parseFloat ( variable name);
+
+9. toFixed();   //variable_name.toFixed();  //the function for floating num
+
+10. toPrecision();  //variable_name.toPrecision();  //the function for floating num
+
+***String method
+
+11. variable_name.length   //to calculate the number of character in a string
+
+12. variable_name.charAt(index_num)  //to show the n-th character from a string
+
+13. variable_name.toUpperCase()   //to make the string at uppercase
+
+14.variable_name.toLowerCase()    //to make the string ar lowercase
+
+15. variable_name.concat(variable_name)    //to show the different string together 
+
+16. variable_name.slice(index number , index number)  // to pic a set of word from a string
+
+Arithmetic operator ---> + ,- , *, /, %(Modulas), **(Exponent / power)
+Assignment operator ---> = , += , -= , *= , /= , %= 
+
+
+
+
+
+
+
+
+
+
+
+
+
