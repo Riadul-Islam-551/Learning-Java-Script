@@ -38,8 +38,14 @@ functions in javascript :
 Arithmetic operator ---> + ,- , *, /, %(Modulas), **(Exponent / power)
 Assignment operator ---> = , += , -= , *= , /= , %= 
 
+Types of variable:
+1. Local variable --> The variable which is written inside the function
+2. Global variable --> The variable which is written outside the function
 
-
+Type of Assignment of variable:
+1. var
+2. let
+3. const
 
 
 
